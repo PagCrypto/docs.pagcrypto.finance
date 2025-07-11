@@ -58,7 +58,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/banner-pagcrypto-2.png',
+    image: 'img/banner-pag-mobile.jpg',
     navbar: {
       title: 'PagCrypto',
       logo: {
