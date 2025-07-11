@@ -1,41 +1,82 @@
-# Website
+# 📘 PagCrypto Docs
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Este é o site oficial de documentação da **PagCrypto**, construído com [Docusaurus](https://docusaurus.io/) — um gerador moderno de sites estáticos focado em documentação técnica.
 
-## Installation
+> 💡 Este repositório é **público** e colaborativo! Contribua com melhorias, correções ou sugestões de comunicação.
+
+---
+
+## ✨ Sobre a PagCrypto
+
+A **PagCrypto** é uma plataforma que conecta pagamentos em criptomoedas a faturas e transferências em moeda local. Nossa documentação é voltada para usuários, desenvolvedores e parceiros que desejam integrar ou utilizar nossas soluções.
+
+---
+
+## 🚀 Instalação
 
 ```bash
-yarn
+yarn install
 ```
 
-## Local Development
+> Certifique-se de ter o Node.js (versão 18 ou superior) instalado.
+
+---
+
+## 🧪 Desenvolvimento local
 
 ```bash
 yarn start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Este comando inicia o servidor de desenvolvimento e abre a documentação no navegador. As alterações são aplicadas automaticamente sem precisar reiniciar.
 
-## Build
+---
+
+## 🏗️ Build para produção
 
 ```bash
 yarn build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Gera o conteúdo estático no diretório `build/`, pronto para ser hospedado em qualquer serviço de arquivos estáticos (como Vercel, Netlify ou GitHub Pages).
 
-## Deployment
+---
 
-Using SSH:
+## 🚀 Deploy para GitHub Pages
+
+### Com SSH:
 
 ```bash
 USE_SSH=true yarn deploy
 ```
 
-Not using SSH:
+### Com HTTPS:
 
 ```bash
-GIT_USER=<Your GitHub username> yarn deploy
+GIT_USER=<seu_usuario_github> yarn deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Esse comando compila o site e faz push para o branch `gh-pages`.
+
+---
+
+## 🤝 Como contribuir
+
+1. Faça um fork do repositório
+2. Crie uma branch (`git checkout -b minha-sugestao`)
+3. Faça as alterações necessárias
+4. Commit e push (`git push origin minha-sugestao`)
+5. Abra um Pull Request
+
+Contribuições são bem-vindas em:
+- Melhoria nos textos e clareza da documentação
+- Correção de erros técnicos
+- Sugestões de estrutura ou organização
+
+---
+
+## 📫 Contato
+
+- Site oficial: [pagcrypto.finance](https://pagcrypto.finance)
+- Telegram: [@pagcrypto](https://t.me/pagcrypto)
+- Suporte: suporte@pagcrypto.finance
