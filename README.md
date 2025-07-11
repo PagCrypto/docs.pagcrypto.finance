@@ -78,5 +78,5 @@ Contribuições são bem-vindas em:
 ## 📫 Contato
 
 - Site oficial: [pagcrypto.finance](https://pagcrypto.finance)
-- Telegram: [@pagcrypto](https://t.me/pagcryptofi)
+- Telegram: [@pagcryptofi](https://t.me/pagcryptofi)
 - Suporte: suporte@pagcrypto.finance
