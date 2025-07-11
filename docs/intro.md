@@ -26,7 +26,7 @@ Com nossa plataforma, é possível:
 
 Explore os guias abaixo para começar a integrar ou utilizar a PagCrypto:
 
-- [Perguntas Frequêntes](/docs/faq)
+- [Perguntas Frequêntes](/docs/category/faq)
 
 ## 📞 Suporte
 
