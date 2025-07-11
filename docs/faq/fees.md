@@ -5,7 +5,7 @@ title: "Taxas"
 Na PagCrypto, as taxas são simples e transparentes:
 
 - **Taxa Fixa por Transação**: R$ 1,30 por cada transação realizada.
-- **Taxa de Processamento aplicado sobre o valor** **da transação processada.**
+- **Taxa de Processamento aplicado sobre o valor** **da transação processada.**
 	- Usuários com cadastro simples
 		- ✅ Até R$ 5.000 → 3%
 	- Usuários Avançados (KYC aprovado)
@@ -20,7 +20,7 @@ Na PagCrypto, as taxas são simples e transparentes:
 
 **KYC**: Nosso processo de verificação de identidade (KYC) é realizado por um provedor terceirizado de confiança. Você pode solicitar facilmente o link para realizar a verificação pelo chat de suporte neste site ou através do nosso canal no Discord.
 
-**Futuro da Monetização:** Estamos explorando a possibilidade de adotar um modelo de governança descentralizada **(DAO)** para a gestão das taxas coletadas. Isso permitirá que a comunidade participe da definição e ajustes dessas taxas, proporcionando uma maior transparência e controle coletivo sobre a estrutura de monetização da plataforma.
+**Futuro da Monetização:** Estamos explorando a possibilidade de adotar um modelo de governança descentralizada **(DAO)** para a gestão das taxas coletadas. Isso permitirá que a comunidade participe da definição e ajustes dessas taxas, proporcionando uma maior transparência e controle coletivo sobre a estrutura de monetização da plataforma.
 
 Nossa missão é garantir uma experiência justa e acessível para todos os usuários, enquanto promovemos a inovação e a colaboração no ecossistema.
 

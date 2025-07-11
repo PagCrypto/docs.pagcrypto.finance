@@ -92,12 +92,12 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Perguntas Frequêntes',
-              to: '/docs/faq/intro',
-            },
-            {
               label: 'Tutorial',
               to: '/docs/intro',
+            },
+            {
+              label: 'Perguntas Frequêntes',
+              to: '/docs/category/faq',
             },
           ],
         },
