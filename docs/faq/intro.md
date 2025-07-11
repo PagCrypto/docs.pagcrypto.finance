@@ -10,5 +10,14 @@ slug: /faq/intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
-Markdown text with [links](./hello.md)
+:::tip[My tip]
 
+Use this awesome feature option
+
+:::
+
+:::danger[Take care]
+
+This action is dangerous
+
+:::
