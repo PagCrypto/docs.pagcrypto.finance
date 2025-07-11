@@ -1,9 +1,9 @@
 ---
 title: "Reembolsos"
 ---
-## Política de Estorno e Reembolso – PagCrypto
+## Política de Estorno e Reembolso – **PagCrypto**
 
-A PagCrypto atua como facilitadora de pagamentos CRIPTO/FIAT e, por isso, zela pela segurança, transparência e rastreabilidade de todas as operações. Em casos de reembolso ou estorno, seguimos os critérios abaixo:
+A **PagCrypto** atua como facilitadora de pagamentos CRIPTO/FIAT e, por isso, zela pela segurança, transparência e rastreabilidade de todas as operações. Em casos de reembolso ou estorno, seguimos os critérios abaixo:
 
 ### 1. **Condições para Solicitação de Estorno ou Reembolso**
 

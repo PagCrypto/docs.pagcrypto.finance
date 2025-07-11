@@ -2,7 +2,7 @@
 title: "Taxas"
 ---
 
-Na PagCrypto, as taxas são simples e transparentes:
+Na **PagCrypto**, as taxas são simples e transparentes:
 
 - **Taxa Fixa por Transação**: R$ 1,30 por cada transação realizada.
 - **Taxa de Processamento aplicado sobre o valor** **da transação processada.**

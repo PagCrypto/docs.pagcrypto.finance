@@ -12,9 +12,9 @@ Tire suas dúvidas sobre a **PagCrypto** — como funciona, quem pode usar, quai
 
 ---
 
-### 💸 O que é a PagCrypto?
+### 💸 O que é a **PagCrypto**?
 
-A PagCrypto é uma plataforma que conecta pagamentos com stablecoins e criptomoedas a sistemas bancários tradicionais, como boletos, PIX e transferências bancárias.
+A **PagCrypto** é uma plataforma que conecta pagamentos com stablecoins e criptomoedas a sistemas bancários tradicionais, como boletos, PIX e transferências bancárias.
 
 ---
 
@@ -46,7 +46,7 @@ Se o pagamento não for detectado ou validado no tempo esperado, a ordem será c
 
 ---
 
-### 📦 A PagCrypto oferece soluções para empresas?
+### 📦 A **PagCrypto** oferece soluções para empresas?
 
 Sim. Oferecemos:
 - Emissão de cobranças com liquidação em CRIPTO
@@ -59,7 +59,7 @@ Sim. Oferecemos:
 
 Nosso suporte está disponível via:
 - Telegram: [Discord](https://discord.gg/vhvXnKuARg)
-- E-mail: suporte@pagcrypto.finance
+- E-mail: **suporte@pagcrypto.finance**
 
 ---
 
