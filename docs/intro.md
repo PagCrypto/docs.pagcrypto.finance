@@ -2,46 +2,36 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Bem-vindo à PagCrypto
 
-Let's discover **Docusaurus in less than 5 minutes**.
+:::tip[GPag]
 
-## Getting Started
+Aproveite sem moderação
 
-Get started by **creating a new site**.
+:::
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+A **PagCrypto** é a infraestrutura de pagamentos Web3 que conecta stablecoins e criptomoedas a pagamentos em moeda local, como Pix, boletos e transferências bancárias.
 
-### What you'll need
+## 🚀 O que é a PagCrypto?
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+A PagCrypto permite que pessoas e empresas realizem pagamentos do mundo real utilizando suas carteiras descentralizadas, com suporte a stablecoins como USDC e XRP.
 
-## Generate a new site
+Com nossa plataforma, é possível:
+- Pagar boletos e Pix diretamente com cripto.
+- Integrar sistemas via API ou SDK.
+- Emitir ordens de pagamento tokenizadas (PayCode).
+- Automatizar liquidações usando contratos inteligentes.
 
-Generate a new Docusaurus site using the **classic template**.
+## 🔧 Comece agora
 
-The classic template will automatically be added to your project after you run the command:
+Explore os guias abaixo para começar a integrar ou utilizar a PagCrypto:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- [Perguntas Frequêntes](/docs/faq)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## 📞 Suporte
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Precisa de ajuda? Fale com nosso time no [Discord](https://discord.gg/vhvXnKuARg) ou envie um e-mail para suporte@pagcrypto.finance.
 
-## Start your site
+---
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+PagCrypto – Unindo o poder das criptomoedas com a praticidade dos pagamentos tradicionais.

@@ -58,7 +58,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/banner-pagcrypto-2.png',
     navbar: {
       title: 'PagCrypto',
       logo: {
