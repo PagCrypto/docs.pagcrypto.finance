@@ -75,7 +75,12 @@ const config: Config = {
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://pagcrypto.finance',
-          label: 'Site',
+          label: 'Web App',
+          position: 'right',
+        },
+        {
+          href: 'https://play.google.com/store/apps/details?id=finance.pagcrypto.mobile&pli=1',
+          label: 'Android App',
           position: 'right',
         },
         {
@@ -105,12 +110,12 @@ const config: Config = {
           title: 'Comunidade',
           items: [
             {
-              label: 'Discord',
-              href: 'https://discord.gg/vhvXnKuARg',
-            },
-            {
               label: 'X',
               href: 'https://x.com/PagCryptoFi',
+            },
+            {
+              label: 'Discord',
+              href: 'https://discord.gg/vhvXnKuARg',
             },
             {
               label: 'Telegram',
@@ -124,10 +129,6 @@ const config: Config = {
               label: 'Linkedin',
               href: 'https://www.linkedin.com/company/pagcrypto',
             },
-            {
-              label: 'Github',
-              href: 'https://github.com/PagCrypto',
-            },
           ],
         },
         {
@@ -135,10 +136,14 @@ const config: Config = {
           items: [
             {
               href: 'https://pagcrypto.finance',
-              label: 'Site',
+              label: 'Web App',
             },
             {
-              href: 'https://github.com/PagCrypto/docs.pagcrypto.finance',
+              href: 'https://play.google.com/store/apps/details?id=finance.pagcrypto.mobile&pli=1',
+              label: 'Android App',
+            },
+            {
+              href: 'https://github.com/PagCrypto',
               label: 'GitHub',
             },
           ],
