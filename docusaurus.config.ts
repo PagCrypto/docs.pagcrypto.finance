@@ -58,12 +58,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: '/img/banner-pag-mobile.jpg',
-    metadata: [
-      { name: 'og:image', content: 'https://docs.pagcrypto.finance/img/banner-pag-mobile.jpg' },
-      { name: 'twitter:image', content: '/img/banner-pag-mobile.jpg' },
-      { name: 'twitter:card', content: 'summary_large_image' },
-    ],
+    image: 'https://docs.pagcrypto.finance/img/banner-pag-mobile.jpg',
     navbar: {
       title: 'PagCrypto',
       logo: {
