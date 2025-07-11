@@ -19,7 +19,6 @@ A **PagCrypto** permite que pessoas e empresas realizem pagamentos do mundo real
 Com nossa plataforma, é possível:
 - Pagar boletos e PIX diretamente com CRIPTO.
 - Integrar sistemas via API ou SDK.
-- Emitir ordens de pagamento tokenizadas (PayCode).
 - Automatizar liquidações usando contratos inteligentes.
 
 ## 🔧 Comece agora
