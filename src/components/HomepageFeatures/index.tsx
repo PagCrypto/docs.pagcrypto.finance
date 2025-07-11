@@ -11,11 +11,11 @@ type FeatureItem = {
 
 const FeatureList = [
     {
-        title: 'Pague com Cripto, Receba em Reais',
+        title: 'Pague com CRIPTO, Receba em Reais',
         Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
         description: (
             <>
-                Use stablecoins como USDC ou tokens locais para pagar qualquer fatura nacional – incluindo boletos, Pix ou TEDs.
+                Use stablecoins como USDC ou tokens locais para pagar qualquer fatura nacional – incluindo boletos, PIX ou TEDs.
             </>
         ),
     },
