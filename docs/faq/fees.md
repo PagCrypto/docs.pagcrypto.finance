@@ -1,27 +1,108 @@
 ---
-title: "Taxas"
+title: "Fees"
 ---
 
-Na **PagCrypto**, as taxas são simples e transparentes:
+## 1. Conceito de Taxa de Rede
 
-- **Taxa Fixa por Transação**: R$ 1,30 por cada transação realizada.
-- **Taxa de Processamento aplicado sobre o valor** **da transação processada.**
-	- Usuários com cadastro simples
-		- ✅ Até R$ 5.000 → 3%
-	- Usuários Avançados (KYC aprovado)
-		- ✅ Até R$ 10.000 → 2,75%
-		- ✅ De R$ 10.001 a R$ 50.000 → 2,25%
-		- ✅ Acima de R$ 50.000 → 1,75%
+A **Taxa de Rede** é um valor fixo cobrado por transação, destinado a cobrir os **custos técnicos de processamento, liquidação e integração entre redes blockchain e sistemas bancários nacionais** (como PIX e boletos bancários).
+Ela **não constitui spread, juros, tarifa financeira ou taxa de câmbio**, sendo estritamente uma **taxa de operação tecnológica**.
 
+A PagCrypto atua como **provedora de infraestrutura e tecnologia de pagamento cripto-fiat**, processando ordens de pagamento através de conexões seguras entre carteiras Web3, APIs bancárias e smart contracts.
+Toda cobrança realizada é destinada à **manutenção, liquidação e auditoria on-chain/off-chain** do serviço.
 
+---
 
-- **Demais Taxas**: As taxas da rede, blockchain e outros protocolos utilizados são repassadas diretamente ao usuário e podem variar conforme a rede escolhida (Solana, Ethereum, etc.).
+## 2. Estrutura de Cálculo
 
+A taxa total aplicada em cada transação é composta por dois componentes:
 
-**KYC**: Nosso processo de verificação de identidade (KYC) é realizado por um provedor terceirizado de confiança. Você pode solicitar facilmente o link para realizar a verificação pelo chat de suporte neste site ou através do nosso canal no Discord.
+**Fórmula geral:**
+**Taxa Total = (R\$ 3,00 × blocos de R\$ 100) + Taxa de Rede**
 
-**Futuro da Monetização:** Estamos explorando a possibilidade de adotar um modelo de governança descentralizada **(DAO)** para a gestão das taxas coletadas. Isso permitirá que a comunidade participe da definição e ajustes dessas taxas, proporcionando uma maior transparência e controle coletivo sobre a estrutura de monetização da plataforma.
+- **Taxa Fixa Simplificada:** R\$ 3,00 a cada R\$ 100 pagos.
+  - Exemplo: R\$ 500 = (3,00 × 5) = R\$ 15,00.
+- **Taxa de Rede (dinâmica):** varia conforme o tipo de liquidação.
+  - **PIX → R\$ 1,30**
+  - **Boleto → R\$ 2,50**
 
-Nossa missão é garantir uma experiência justa e acessível para todos os usuários, enquanto promovemos a inovação e a colaboração no ecossistema.
+> Esta estrutura proporciona **previsibilidade e transparência**, sem uso de percentuais financeiros no segmento sem KYC, reforçando o caráter tecnológico da operação.
 
-Nosso objetivo é garantir uma estrutura de taxas clara e acessível, para que você tenha uma experiência sem surpresas.
+---
+
+## 3. Regras para Usuários com Cadastro Básico (Sem KYC)
+
+Usuários que ainda **não completaram verificação de identidade (KYC)** podem realizar pagamentos **utilizando a Taxa Fixa Simplificada + Taxa de Rede**, respeitando os seguintes limites operacionais:
+
+| Tipo de Limite | Valor | Descrição |
+|----------------|--------|------------|
+| **Por transação** | R\$ 650,00 | Valor máximo permitido em uma única transação |
+| **Diário** | R\$ 1.300,00 | Valor total permitido em um mesmo dia |
+| **Mensal** | R\$ 20.000,00 | Teto máximo de movimentação por mês |
+
+| Valor da transação | Cálculo (PIX) | Total (PIX) | Cálculo (Boleto) | Total (Boleto) |
+|---:|:--|--:|:--|--:|
+| R\$ 100 | 3,00 + 1,30 | **R\$ 4,30** | 3,00 + 2,50 | **R\$ 5,50** |
+| R\$ 200 | 6,00 + 1,30 | **R\$ 7,30** | 6,00 + 2,50 | **R\$ 8,50** |
+| R\$ 500 | 15,00 + 1,30 | **R\$ 16,30** | 15,00 + 2,50 | **R\$ 17,50** |
+| R\$ 650 | 19,50 + 1,30 | **R\$ 20,80** | 19,50 + 2,50 | **R\$ 22,00** |
+
+**Observações:**
+- Transações acima de **R\$ 650** por operação, **R\$ 1.300/dia** ou **R\$ 20.000/mês** requerem verificação de identidade (KYC).
+- A limitação protege contra uso indevido e garante conformidade com práticas AML.
+- Caso o pagamento seja dividido em múltiplas transações, a **Taxa de Rede** incidirá **uma vez por transação**.
+
+---
+
+## 4. Regras para Usuários com KYC (Verificados)
+
+Usuários verificados (níveis **Avançado** ou **Completo**) têm acesso a limites ampliados e taxas reduzidas:
+
+| Faixa de valor | Taxa de serviço | + Taxa de Rede |
+|---|---:|---:|
+| até R\$ 5.000 | 2,5 % | + R\$ 1,30 (PIX) ou R\$ 2,50 (Boleto) |
+| R\$ 5.001 – R\$ 50.000 | 2,0 % | + variável |
+| R\$ 50.001 – R\$ 100.000 | 1,25 % | + variável |
+| acima de R\$ 100.001 | 0,95 % | + variável |
+
+A Taxa de Rede segue o mesmo princípio de **custo tecnológico de liquidação**, não caracterizando serviço financeiro.
+
+---
+
+## 5. Transparência e Governança
+
+A PagCrypto adota o princípio de **transparência tarifária**.
+Todos os valores cobrados são apresentados de forma clara antes da execução da transação, com detalhamento de cada componente (Taxa Fixa e Taxa de Rede).
+
+Os parâmetros de taxa poderão ser **ajustados periodicamente** conforme custos operacionais de rede e liquidação, sempre respeitando os seguintes princípios:
+- Clareza e comunicação prévia ao usuário;
+- Manutenção do caráter tecnológico da cobrança;
+- Compatibilidade com o modelo de **infraestrutura de liquidação cripto-fiat**, e não de instituição financeira.
+
+---
+
+## 6. Definições Técnicas
+
+- **Taxa de Rede (Network Fee):** custo fixo de liquidação em infraestrutura blockchain e/ou provedor bancário (ex.: PIX, boleto).
+- **Taxa Fixa Simplificada:** valor escalonado aplicado por bloco de R\$ 100, representando o custo tecnológico do serviço.
+- **Usuário Verificado (KYC):** cliente que realizou verificação de identidade, conforme política de conformidade da PagCrypto.
+- **Liquidação Off-chain:** integração técnica com provedores financeiros (ex.: Celcoin, OpenPix) para compensação de boletos e PIX.
+- **Liquidação On-chain:** registro de hash, assinatura ou metadado de pagamento na blockchain suportada (Solana, Base, XRPL, etc.).
+
+---
+
+## 7. Atualizações e Revisões
+
+A PagCrypto reserva-se o direito de revisar a política de taxas conforme:
+- Variações de custo dos provedores de liquidação;
+- Alterações regulatórias;
+- Expansão para novas redes blockchain ou países.
+
+Todas as atualizações serão publicadas nesta página e comunicadas previamente aos usuários ativos.
+
+---
+
+## 8. Contato e Suporte
+
+Em caso de dúvidas sobre esta política, abra um chamado pelos canais oficiais do suporte no aplicativo ou pelo e-mail informado na área de **Ajuda e Suporte** da PagCrypto.
+
+---
