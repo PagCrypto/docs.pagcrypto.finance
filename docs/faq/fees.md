@@ -2,6 +2,7 @@
 title: "Fees"
 ---
 
+
 ## 1. Conceito de Taxa de Rede
 
 A **Taxa de Rede** é um valor fixo cobrado por transação, destinado a cobrir os **custos técnicos de processamento, liquidação e integração entre redes blockchain e sistemas bancários nacionais** (como PIX e boletos bancários).
@@ -20,14 +21,13 @@ A taxa total aplicada em cada transação é composta por dois componentes:
 **Taxa Total = (R\$ 3,00 × blocos de R\$ 100) + Taxa de Rede**
 
 - **Taxa Fixa Simplificada:** R\$ 3,00 a cada R\$ 100 pagos.
-  - Exemplo: R\$ 500 = (3,00 × 5) = R\$ 15,00.
+    - Exemplo: R\$ 500 = (3,00 × 5) = R\$ 15,00.
 - **Taxa de Rede (dinâmica):** varia conforme o tipo de liquidação.
-  - **PIX → R\$ 1,30**
-  - **Boleto → R\$ 2,50**
+    - **PIX → R\$ 1,30**
+    - **Boleto → R\$ 2,50**
 
 > Esta estrutura proporciona **previsibilidade e transparência**, sem uso de percentuais financeiros no segmento sem KYC, reforçando o caráter tecnológico da operação.
 
----
 
 ## 3. Regras para Usuários com Cadastro Básico (Sem KYC)
 
@@ -51,7 +51,6 @@ Usuários que ainda **não completaram verificação de identidade (KYC)** podem
 - A limitação protege contra uso indevido e garante conformidade com práticas AML.
 - Caso o pagamento seja dividido em múltiplas transações, a **Taxa de Rede** incidirá **uma vez por transação**.
 
----
 
 ## 4. Regras para Usuários com KYC (Verificados)
 
@@ -66,7 +65,6 @@ Usuários verificados (níveis **Avançado** ou **Completo**) têm acesso a limi
 
 A Taxa de Rede segue o mesmo princípio de **custo tecnológico de liquidação**, não caracterizando serviço financeiro.
 
----
 
 ## 5. Transparência e Governança
 
@@ -78,7 +76,6 @@ Os parâmetros de taxa poderão ser **ajustados periodicamente** conforme custos
 - Manutenção do caráter tecnológico da cobrança;
 - Compatibilidade com o modelo de **infraestrutura de liquidação cripto-fiat**, e não de instituição financeira.
 
----
 
 ## 6. Definições Técnicas
 
@@ -88,7 +85,6 @@ Os parâmetros de taxa poderão ser **ajustados periodicamente** conforme custos
 - **Liquidação Off-chain:** integração técnica com provedores financeiros (ex.: Celcoin, OpenPix) para compensação de boletos e PIX.
 - **Liquidação On-chain:** registro de hash, assinatura ou metadado de pagamento na blockchain suportada (Solana, Base, XRPL, etc.).
 
----
 
 ## 7. Atualizações e Revisões
 
@@ -99,10 +95,8 @@ A PagCrypto reserva-se o direito de revisar a política de taxas conforme:
 
 Todas as atualizações serão publicadas nesta página e comunicadas previamente aos usuários ativos.
 
----
 
 ## 8. Contato e Suporte
 
 Em caso de dúvidas sobre esta política, abra um chamado pelos canais oficiais do suporte no aplicativo ou pelo e-mail informado na área de **Ajuda e Suporte** da PagCrypto.
 
----
