@@ -1,4 +1,5 @@
 ---
+title: Bem-vindo à PagCrypto
 sidebar_position: 1
 ---
 

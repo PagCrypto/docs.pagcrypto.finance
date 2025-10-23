@@ -52,9 +52,39 @@ Usuários que ainda **não completaram verificação de identidade (KYC)** podem
 - Caso o pagamento seja dividido em múltiplas transações, a **Taxa de Rede** incidirá **uma vez por transação**.
 
 
-## 4. Regras para Usuários com KYC (Verificados)
+## 3.1. Regras para Usuários com Cadastro Manual (KYC-2)
+
+Usuários que concluíram o **cadastro básico (PF ou PJ)**, com verificação documental manual — nome completo, CPF/CNPJ, titularidade bancária e selfie simples — têm acesso a **limites ampliados** e **taxas reduzidas** em relação ao nível KYC-1.
+
+| Tipo de Limite | Valor | Descrição |
+|----------------|--------|------------|
+| **Por transação** | R\$ 10.000,00 | Valor máximo permitido por operação |
+| **Diário** | R\$ 30.000,00 | Valor total permitido em um mesmo dia |
+| **Mensal** | R\$ 100.000,00 | Teto máximo de movimentação mensal |
+
+**Estrutura de taxas:**
+- Taxa de serviço: **2,75%** sobre o valor da transação;
+- Taxa de rede (fixa): **R\$ 1,30 (PIX)** ou **R\$ 2,50 (boleto)**.
+
+**Exemplo prático:**
+> Pagamento de R\$ 2.000 via PIX
+> Taxa = (2.000 × 2,75%) + 1,30 = **R\$ 56,30**
+
+**Observações:**
+- O cadastro KYC-2 habilita transferências para contas de mesma titularidade.
+- Transações acima de R\$ 100.000,00 por mês exigem a verificação completa (KYC-3).
+- A transição entre níveis é automática após análise de documentos e validação do sistema.
+
+
+## 3.2. Regras para Usuários com KYC (Verificados)
 
 Usuários verificados (níveis **Avançado** ou **Completo**) têm acesso a limites ampliados e taxas reduzidas:
+
+| Tipo de Limite | Valor | Descrição |
+|----------------|--------|------------|
+| **Por transação** | R$ 200.000,00 | Valor máximo permitido por operação |
+| **Diário** | R$ 400.000,00 | Valor total permitido em um mesmo dia |
+| **Mensal** | R$ 2.000.000,00 | Teto máximo de movimentação mensal |
 
 | Faixa de valor | Taxa de serviço | + Taxa de Rede |
 |---|---:|---:|
@@ -66,7 +96,7 @@ Usuários verificados (níveis **Avançado** ou **Completo**) têm acesso a limi
 A Taxa de Rede segue o mesmo princípio de **custo tecnológico de liquidação**, não caracterizando serviço financeiro.
 
 
-## 5. Transparência e Governança
+## 4. Transparência e Governança
 
 A PagCrypto adota o princípio de **transparência tarifária**.
 Todos os valores cobrados são apresentados de forma clara antes da execução da transação, com detalhamento de cada componente (Taxa Fixa e Taxa de Rede).
@@ -77,7 +107,7 @@ Os parâmetros de taxa poderão ser **ajustados periodicamente** conforme custos
 - Compatibilidade com o modelo de **infraestrutura de liquidação cripto-fiat**, e não de instituição financeira.
 
 
-## 6. Definições Técnicas
+## 5. Definições Técnicas
 
 - **Taxa de Rede (Network Fee):** custo fixo de liquidação em infraestrutura blockchain e/ou provedor bancário (ex.: PIX, boleto).
 - **Taxa Fixa Simplificada:** valor escalonado aplicado por bloco de R\$ 100, representando o custo tecnológico do serviço.
@@ -86,7 +116,7 @@ Os parâmetros de taxa poderão ser **ajustados periodicamente** conforme custos
 - **Liquidação On-chain:** registro de hash, assinatura ou metadado de pagamento na blockchain suportada (Solana, Base, XRPL, etc.).
 
 
-## 7. Atualizações e Revisões
+## 6. Atualizações e Revisões
 
 A PagCrypto reserva-se o direito de revisar a política de taxas conforme:
 - Variações de custo dos provedores de liquidação;
@@ -96,7 +126,7 @@ A PagCrypto reserva-se o direito de revisar a política de taxas conforme:
 Todas as atualizações serão publicadas nesta página e comunicadas previamente aos usuários ativos.
 
 
-## 8. Contato e Suporte
+## 7. Contato e Suporte
 
 Em caso de dúvidas sobre esta política, abra um chamado pelos canais oficiais do suporte no aplicativo ou pelo e-mail informado na área de **Ajuda e Suporte** da PagCrypto.
 
