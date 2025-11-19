@@ -88,7 +88,7 @@ Usuários verificados (níveis **Avançado** ou **Completo**) têm acesso a limi
 |---|----------------:|---:|
 | até R\$ 5.000 |          2,75 % | + R\$ 1,30 (PIX) ou R\$ 2,50 (Boleto) |
 | R\$ 5.001 – R\$ 50.000 |          2,50 % | + variável |
-| R\$ 50.001 – R\$ 100.000 |          2,25 % | + variável |
+| R\$ 50.001 – R\$ 100.000 |          2,00 % | + variável |
 | acima de R\$ 100.001 |          1,75 % | + variável |
 
 A Taxa de Rede segue o mesmo princípio de **custo tecnológico de liquidação**, não caracterizando serviço financeiro.
