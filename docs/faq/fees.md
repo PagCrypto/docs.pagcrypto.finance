@@ -26,12 +26,10 @@ A taxa total aplicada em cada transação é composta por dois componentes:
     - **PIX → R\$ 1,30**
     - **Boleto → R\$ 2,50**
 
-> Esta estrutura proporciona **previsibilidade e transparência**, sem uso de percentuais financeiros no segmento sem KYC, reforçando o caráter tecnológico da operação.
 
+## 3. Regras para Usuários com Cadastro Básico (KYC-1)
 
-## 3. Regras para Usuários com Cadastro Básico (Sem KYC)
-
-Usuários que ainda **não completaram verificação de identidade (KYC)** podem realizar pagamentos **utilizando a Taxa Fixa Simplificada + Taxa de Rede**, respeitando os seguintes limites operacionais:
+Usuários com registro básico, **não completaram verificação de identidade (KYC)** podem realizar pagamentos **utilizando a Taxa Fixa Simplificada + Taxa de Rede**, respeitando os seguintes limites operacionais:
 
 | Tipo de Limite | Valor | Descrição |
 |----------------|--------|------------|
@@ -54,7 +52,7 @@ Usuários que ainda **não completaram verificação de identidade (KYC)** podem
 
 ## 3.1. Regras para Usuários com Cadastro Manual (KYC-2)
 
-Usuários que concluíram o **cadastro básico (PF ou PJ)**, com verificação documental manual — nome completo, CPF/CNPJ, titularidade bancária e selfie simples — têm acesso a **limites ampliados** e **taxas reduzidas** em relação ao nível KYC-1.
+Usuários que concluíram o **cadastro (PF ou PJ)**, com verificação documental manual - nome completo, CPF/CNPJ, titularidade bancária e selfie simples — têm acesso a **limites ampliados** e **taxas reduzidas** em relação ao nível KYC-1.
 
 | Tipo de Limite | Valor | Descrição |
 |----------------|--------|------------|
@@ -76,22 +74,22 @@ Usuários que concluíram o **cadastro básico (PF ou PJ)**, com verificação d
 - A transição entre níveis é automática após análise de documentos e validação do sistema.
 
 
-## 3.2. Regras para Usuários com KYC (Verificados)
+## 3.2. Regras para Usuários Verificados (KYC-3)
 
 Usuários verificados (níveis **Avançado** ou **Completo**) têm acesso a limites ampliados e taxas reduzidas:
 
 | Tipo de Limite | Valor | Descrição |
 |----------------|--------|------------|
-| **Por transação** | R$ 200.000,00 | Valor máximo permitido por operação |
-| **Diário** | R$ 400.000,00 | Valor total permitido em um mesmo dia |
-| **Mensal** | R$ 2.000.000,00 | Teto máximo de movimentação mensal |
+| **Por transação** | R\$ 200.000,00 | Valor máximo permitido por operação |
+| **Diário** | R\$ 400.000,00 | Valor total permitido em um mesmo dia |
+| **Mensal** | R\$ 2.000.000,00 | Teto máximo de movimentação mensal |
 
 | Faixa de valor | Taxa de serviço | + Taxa de Rede |
-|---|---:|---:|
-| até R\$ 5.000 | 2,5 % | + R\$ 1,30 (PIX) ou R\$ 2,50 (Boleto) |
-| R\$ 5.001 – R\$ 50.000 | 2,0 % | + variável |
-| R\$ 50.001 – R\$ 100.000 | 1,25 % | + variável |
-| acima de R\$ 100.001 | 0,95 % | + variável |
+|---|----------------:|---:|
+| até R\$ 5.000 |          2,75 % | + R\$ 1,30 (PIX) ou R\$ 2,50 (Boleto) |
+| R\$ 5.001 – R\$ 50.000 |          2,50 % | + variável |
+| R\$ 50.001 – R\$ 100.000 |          2,25 % | + variável |
+| acima de R\$ 100.001 |          1,75 % | + variável |
 
 A Taxa de Rede segue o mesmo princípio de **custo tecnológico de liquidação**, não caracterizando serviço financeiro.
 
