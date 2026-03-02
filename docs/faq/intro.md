@@ -2,19 +2,19 @@
 sidebar_position: 1
 id: faq-intro
 title: Introdução
-description: Dúvidas comuns sobre o funcionamento da PagCrypto
+description: Dúvidas comuns sobre o funcionamento da PagFinance
 slug: /faq/intro
 ---
 
 # Perguntas Frequentes (FAQ)
 
-Tire suas dúvidas sobre a **PagCrypto** — como funciona, quem pode usar, quais moedas são aceitas e como integrar.
+Tire suas dúvidas sobre a **PagFinance** — como funciona, quem pode usar, quais moedas são aceitas e como integrar.
 
 ---
 
-### 💸 O que é a **PagCrypto**?
+### 💸 O que é a **PagFinance**?
 
-A **PagCrypto** é uma plataforma que conecta pagamentos com stablecoins e criptomoedas a sistemas bancários tradicionais, como boletos, PIX e transferências bancárias.
+A **PagFinance** é uma plataforma que conecta pagamentos com stablecoins e criptomoedas a sistemas bancários tradicionais, como boletos, PIX e transferências bancárias.
 
 ---
 
@@ -46,7 +46,7 @@ Se o pagamento não for detectado ou validado no tempo esperado, a ordem será c
 
 ---
 
-### 📦 A **PagCrypto** oferece soluções para empresas?
+### 📦 A **PagFinance** oferece soluções para empresas?
 
 Sim. Oferecemos:
 - Emissão de cobranças com liquidação em CRIPTO
@@ -59,7 +59,7 @@ Sim. Oferecemos:
 
 Nosso suporte está disponível via:
 - Telegram: [Discord](https://discord.gg/vhvXnKuARg)
-- E-mail: **suporte@pagcrypto.finance**
+- E-mail: **suporte@pag.finance**
 
 ---
 

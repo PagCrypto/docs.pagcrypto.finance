@@ -1,14 +1,14 @@
-# 📘 PagCrypto Docs
+# 📘 PagFinance Docs
 
-Este é o site oficial de documentação da **PagCrypto**, construído com [Docusaurus](https://docusaurus.io/) — um gerador moderno de sites estáticos focado em documentação técnica.
+Este é o site oficial de documentação da **PagFinance**, construído com [Docusaurus](https://docusaurus.io/) — um gerador moderno de sites estáticos focado em documentação técnica.
 
 > 💡 Este repositório é **público** e colaborativo! Contribua com melhorias, correções ou sugestões de comunicação.
 
 ---
 
-## ✨ Sobre a PagCrypto
+## ✨ Sobre a PagFinance
 
-A **PagCrypto** é uma plataforma que conecta pagamentos em criptomoedas a faturas e transferências em moeda local. Nossa documentação é voltada para usuários, desenvolvedores e parceiros que desejam integrar ou utilizar nossas soluções.
+A **PagFinance** é uma plataforma que conecta pagamentos em criptomoedas a faturas e transferências em moeda local. Nossa documentação é voltada para usuários, desenvolvedores e parceiros que desejam integrar ou utilizar nossas soluções.
 
 ---
 
@@ -77,6 +77,6 @@ Contribuições são bem-vindas em:
 
 ## 📫 Contato
 
-- Site oficial: [pagcrypto.finance](https://pagcrypto.finance)
+- Site oficial: [pag.finance](https://pag.finance)
 - Telegram: [@pagcryptofi](https://t.me/pagcryptofi)
-- Suporte: suporte@pagcrypto.finance
+- Suporte: suporte@pag.finance

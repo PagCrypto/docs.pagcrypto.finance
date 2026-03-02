@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'PagCrypto Docs',
+  title: 'PagFinance Docs',
   tagline: 'Infraestrutura de Pagamentos Web3 que conecta stablecoins a pagamentos em moeda local',
   favicon: 'img/favicon.ico',
 
@@ -13,9 +13,9 @@ const config: Config = {
   future: {
     v4: true,
   },
-  url: 'https://docs.pagcrypto.finance',
+  url: 'https://docs.pag.finance',
   baseUrl: '/',
-  organizationName: 'PagCrypto', // Usually your GitHub org/user name.
+  organizationName: 'PagFinance', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -58,11 +58,11 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'https://docs.pagcrypto.finance/img/banner-pag-mobile.jpg',
+    image: 'https://docs.pag.finance/img/banner-pag-mobile.jpg',
     navbar: {
-      title: 'PagCrypto',
+      title: 'PagFinance',
       logo: {
-        alt: 'Logo PagCrypto',
+        alt: 'Logo PagFinance',
         src: 'img/logo.svg',
       },
       items: [
@@ -74,7 +74,7 @@ const config: Config = {
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://pagcrypto.finance',
+          href: 'https://pag.finance',
           label: 'Web App',
           position: 'right',
         },
@@ -135,7 +135,7 @@ const config: Config = {
           title: 'Links',
           items: [
             {
-              href: 'https://pagcrypto.finance',
+              href: 'https://pag.finance',
               label: 'Web App',
             },
             {
@@ -143,13 +143,13 @@ const config: Config = {
               label: 'Android App',
             },
             {
-              href: 'https://github.com/PagCrypto',
+              href: 'https://github.com/PagFinance',
               label: 'GitHub',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} PagCrypto - Todos os direitos reservados.`,
+      copyright: `Copyright © ${new Date().getFullYear()} PagFinance - Todos os direitos reservados.`,
     },
     prism: {
       theme: prismThemes.github,
