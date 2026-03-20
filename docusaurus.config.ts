@@ -123,11 +123,11 @@ const config: Config = {
             },
             {
               label: 'Instagram',
-              href: 'https://www.instagram.com/pagcrypto',
+              href: 'https://www.instagram.com/pagfinance',
             },
             {
               label: 'Linkedin',
-              href: 'https://www.linkedin.com/company/pagcrypto',
+              href: 'https://www.linkedin.com/company/pagfinance',
             },
           ],
         },
