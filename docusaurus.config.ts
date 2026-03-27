@@ -111,7 +111,7 @@ const config: Config = {
           items: [
             {
               label: 'X',
-              href: 'https://x.com/PagCryptoFi',
+              href: 'https://x.com/PagFinance',
             },
             {
               label: 'Discord',
